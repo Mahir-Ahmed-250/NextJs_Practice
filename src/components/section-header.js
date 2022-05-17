@@ -20,7 +20,9 @@ export default function SectionHeader({ title, slogan, isWhite }) {
           color: isWhite ? "white" : "heading",
         }}>
         {title}
+        <hr />
       </Heading>
+
     </Box>
   );
 }
