@@ -1,11 +1,4 @@
-## Getting Started
+## Live Site
 
-Install the dependencies and run the development server
+https://nextjspractice.netlify.app/
 
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
